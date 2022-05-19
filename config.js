@@ -11,10 +11,10 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://instagram.com/mhdfakri_'
+gc1 = 'https://www.instagram.com/sdlrangkringan_/'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
-global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
+global.linkGC = ['https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e', ''] // ganti jadi group lu
 global.owner = ['6285850539404','6285850539404'] // Put your number here //owner eval
 global.kontak = ['6285850539404','6285850539404'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
@@ -88,7 +88,7 @@ global.eror = '❗𝙎𝙚𝙧𝙫𝙚𝙧 𝙀𝙧𝙧𝙤𝙧...'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = 'Jarot×͜× ' //change the watermark 
 global.image = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
+global.thumbfoto = 'https://telegra.ph/file/a920837cf757b66eed4a4.jpg'
 
 // image
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
