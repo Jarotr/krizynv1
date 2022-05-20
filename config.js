@@ -11,7 +11,7 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://www.instagram.com/sdlrangkringan_/'
+gc1 = 'https://instagram.com/frnshpvirtual_'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
 global.linkGC = ['https://chat.whatsapp.com/E5l0ofPuMxG3H8ZhMRyI7e', ''] // ganti jadi group lu
