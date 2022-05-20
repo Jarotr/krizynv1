@@ -240,7 +240,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┗━━━━━━━━━━━━━━֍
 ┏━━〔 𝘼𝘾𝘾𝙊𝙐𝙉𝙏 𝙊𝙒𝙉𝙀𝙍 〕━֍
 ┃⬣ IG : instagram.com/frnshpvirtual_
-┃⬣ YT : youtube.com/c/HokenBeusz
+┃⬣ YT : youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ
 ┃⬣ TT : tiktok.com/@unfaedahkan
 ┃⬣ FB : facebook.com/mhdfakri1999
 ┃⬣ 𝘿𝙊𝙉'𝙏 𝙁𝙊𝙍𝙂𝙀𝙏 𝙏𝙊 𝙁𝙊𝙇𝙇𝙊𝙒𝙄𝙉𝙂!
